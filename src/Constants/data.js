@@ -86,5 +86,9 @@ const reviews = [
     description: "Staff was amazing, everyone was super nice and it gave all around good vibes..."
   }
 ];
-
-export default { classics, coldbrews, reviews };
+const data = {
+  classics,
+  coldbrews,
+  reviews
+}
+export default data;
