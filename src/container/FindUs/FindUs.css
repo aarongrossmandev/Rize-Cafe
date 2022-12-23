@@ -1,0 +1,12 @@
+
+  @media screen and (min-width: 1450px){
+    .app__wrapper_info{
+     margin-left: 8rem!important;
+    }
+  }
+
+  @media screen and (min-width: 1650px){
+    .app__wrapper_info{
+     margin-left: 20rem!important;
+    }
+  }
